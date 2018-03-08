@@ -1,0 +1,6 @@
+G:\FinancialSystem\Utility\bin\Debug\Com.Garfield.Utility.dll
+G:\FinancialSystem\Utility\bin\Debug\Com.Garfield.Utility.pdb
+G:\FinancialSystem\Utility\obj\Debug\Com.Garfield.Utility.dll
+G:\FinancialSystem\Utility\obj\Debug\Com.Garfield.Utility.pdb
+G:\FinancialSystem\Utility\bin\Debug\itextsharp.dll
+G:\FinancialSystem\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache

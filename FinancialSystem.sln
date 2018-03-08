@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashFlow", "CashFlow\CashFlow.csproj", "{84864BBA-F436-492A-9BEC-658FD053CED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment", "Payment\Payment.csproj", "{721E4799-ADE7-4833-96CE-56625B9D4D09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{E7683706-CDDA-4095-944C-47B7DD81CAD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84864BBA-F436-492A-9BEC-658FD053CED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84864BBA-F436-492A-9BEC-658FD053CED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84864BBA-F436-492A-9BEC-658FD053CED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84864BBA-F436-492A-9BEC-658FD053CED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721E4799-ADE7-4833-96CE-56625B9D4D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721E4799-ADE7-4833-96CE-56625B9D4D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721E4799-ADE7-4833-96CE-56625B9D4D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721E4799-ADE7-4833-96CE-56625B9D4D09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7683706-CDDA-4095-944C-47B7DD81CAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7683706-CDDA-4095-944C-47B7DD81CAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7683706-CDDA-4095-944C-47B7DD81CAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7683706-CDDA-4095-944C-47B7DD81CAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
